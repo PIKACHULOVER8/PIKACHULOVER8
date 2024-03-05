@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PIKACHULOVER8
+- 👀 I’m interested in python
+- 🌱 I’m also currently learning python
+- 💞️ I’m looking to collaborate on python stuff
+- 📫 To reach me, Just like post a comment or something (I don't know how Github works) 
